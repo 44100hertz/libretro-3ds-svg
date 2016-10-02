@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="nes2.svg"
+   inkscape:export-filename="D:\MyDocs\Documents\RetroArch\ctr\assets\gpsp.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="40.830289"
+     inkscape:cy="35.496048"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1857"
+     inkscape:window-height="1057"
+     inkscape:window-x="55"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336"
+       empspacing="4"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="image 1"
+     style="opacity:1">
+    <rect
+       style="display:inline;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4326"
+       width="48"
+       height="48.000019"
+       x="0"
+       y="0" />
+    <circle
+       style="display:inline;opacity:1;fill:#bb3637;fill-opacity:1"
+       id="path4311"
+       cx="15"
+       cy="24.999998"
+       r="7" />
+    <circle
+       style="display:inline;opacity:1;fill:#bb3637;fill-opacity:1"
+       id="path4313"
+       cx="33"
+       cy="17"
+       r="7" />
+    <rect
+       style="display:inline;opacity:1;fill:#bb3637;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4322"
+       width="4"
+       height="3.0000174"
+       x="6"
+       y="10" />
+    <rect
+       style="display:inline;opacity:1;fill:#bb3637;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4324"
+       width="4"
+       height="3"
+       x="22"
+       y="3" />
+    <path
+       transform="matrix(0.91102822,-0.41234401,0.41234401,0.91102822,0,0)"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7a7a7;stroke-width:1.18512857;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 39.586279,40.931024 -39.76149186,0.08272 C -6.7408111,41.027397 -12.026499,35.728065 -12.026499,29.162453 c 0,-6.565613 5.2857102,-11.873187 11.85128614,-11.851286 L 42.533573,17.453633"
+       id="rect5060"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="image"
+     style="display:inline;opacity:1" />
+</svg>

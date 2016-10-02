@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="128"
+   viewBox="0 0 256 128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mednafenws.svg"
+   inkscape:export-filename="D:\MyDocs\Documents\RetroArch\ctr\assets\mednafen_pce_fast_banner.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4346"
+       x="-0.14652809"
+       width="1.2930562"
+       y="-0.81506248"
+       height="2.630125">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.54726"
+         id="feGaussianBlur4348" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#454545"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="127.35055"
+     inkscape:cy="65.823455"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1857"
+     inkscape:window-height="1057"
+     inkscape:window-x="55"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:bbox-nodes="true"
+     inkscape:object-nodes="true"
+     showguides="true"
+     inkscape:snap-object-midpoints="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336"
+       empspacing="4"
+       dotted="false"
+       spacingx="8"
+       spacingy="8.0000001" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.3622)"
+     style="display:inline">
+    <rect
+       style="fill:#000000;fill-opacity:1;filter:url(#filter4346)"
+       id="rect4206"
+       width="123.61742"
+       height="22.223356"
+       x="2.2728431"
+       y="1008.6731"
+       transform="matrix(1.7230907,0,0,3.0051863,16.572221,-2078.5452)" />
+    <image
+       sodipodi:absref="D:\MyDocs\Documents\retroicons\banners\mednafen.png"
+       xlink:href="mednafen.png"
+       width="187.64706"
+       height="55"
+       preserveAspectRatio="none"
+       id="image10558"
+       x="34.176468"
+       y="956.36652" />
+    <image
+       sodipodi:absref="D:\MyDocs\Documents\retroicons\banners\libretro-light.png"
+       xlink:href="libretro-light.png"
+       width="173.11574"
+       height="32.293758"
+       preserveAspectRatio="none"
+       id="image10569"
+       x="39.942131"
+       y="943.9115" />
+    <image
+       sodipodi:absref="D:\MyDocs\Documents\retroicons\banners\medafen bug.png"
+       xlink:href="medafen bug.png"
+       width="51.883499"
+       height="34.61602"
+       preserveAspectRatio="none"
+       id="image10580"
+       x="159.93326"
+       y="964.63721" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dce0df;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="127.87695"
+       y="1024.8622"
+       id="text10583"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10585"
+         x="127.87695"
+         y="1024.8622"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:30px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';text-align:center;text-anchor:middle;fill:#dce0df;fill-opacity:1">Wonderswan</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="image"
+     style="display:inline;opacity:1"
+     transform="translate(0,80)" />
+</svg>

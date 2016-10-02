@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gb.svg"
+   inkscape:export-filename="D:\MyDocs\Documents\RetroArch\ctr\assets\gambatte.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="18.698531"
+     inkscape:cy="22.869141"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1857"
+     inkscape:window-height="1057"
+     inkscape:window-x="55"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336"
+       empspacing="4"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <rect
+       style="opacity:1;fill:#c9c5b9;fill-opacity:1"
+       id="rect4197"
+       width="48"
+       height="48.000019"
+       x="0"
+       y="1004.3622" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="image"
+     style="display:inline;opacity:1" />
+  <circle
+     style="opacity:1;fill:#7e0844;fill-opacity:1;stroke:none;stroke-opacity:1"
+     id="path4922"
+     cx="13"
+     cy="25"
+     r="8" />
+  <circle
+     r="8"
+     cy="16"
+     cx="35"
+     id="circle4924"
+     style="opacity:1;fill:#7e0844;fill-opacity:1;stroke:none;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#181e7e;fill-opacity:1;stroke:none;stroke-opacity:1"
+     id="rect4926"
+     width="4"
+     height="3"
+     x="-3.3348303"
+     y="42.271114"
+     transform="matrix(0.86923566,-0.49439798,0.49439798,0.86923566,0,0)" />
+  <rect
+     transform="matrix(0.86923566,-0.49439798,0.49439798,0.86923566,0,0)"
+     y="43.62035"
+     x="20.102777"
+     height="3"
+     width="4"
+     id="rect4928"
+     style="opacity:1;fill:#181e7e;fill-opacity:1;stroke:none;stroke-opacity:1" />
+</svg>
